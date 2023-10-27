@@ -1,55 +1,40 @@
-# Markdown Files
+#¿Qué es un proceso?
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+Un `proceso` se puede definir como el conjunto de **actividades, acciones
+y tareas**, mismo que después de designar un orden, estructura y roles se
+ejecutan de forma ordenada.
 
-## What is MyST?
+## Actividades
 
-MyST stands for "Markedly Structured Text". It
-is a slight variation on a flavor of markdown called "CommonMark" markdown,
-with small syntax extensions to allow you to write **roles** and **directives**
-in the Sphinx ecosystem.
+Es un obejtivo generalizado de un trabajo por realizar, que generalmente
+se encuentra planeado con un fin específico.
+Por ejemplo, las reuniones diarias de planificación o revisión de tareas.
 
-For more about MyST, see [the MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
 
-## Sample Roles and Directivs
+## Acciones
 
-Roles and directives are two of the most powerful tools in Jupyter Book. They
-are kind of like functions, but written in a markup language. They both
-serve a similar purpose, but **roles are written in one line**, whereas
-**directives span many lines**. They both accept different kinds of inputs,
-and what they do with those inputs depends on the specific role or directive
-that is being called.
-
+Es un conjunto de tareas que produce como resultado de su realización un 
+producto o servicio, es un aporte que es tangible dentro del proceso. 
+Como ejemplo podría mencionar realizar un digrama de casos de usos de un 
+acerca de un detalle específico del software.
 Here is a "note" directive:
 
-```{note}
-Here is a note
+```{nota}
+Una acción es el producto importante de un trabajo
 ```
 
-It will be rendered in a special box when you build your book.
+## Tareas
 
-Here is an inline directive to refer to a document: {doc}`markdown-notebooks`.
-
-
-## Citations
-
-You can also cite references that are stored in a `bibtex` file. For example,
-the following syntax: `` {cite}`holdgraf_evidence_2014` `` will render like
-this: {cite}`holdgraf_evidence_2014`.
-
-Moreover, you can insert a bibliography into your page with this syntax:
-The `{bibliography}` directive must be used for all the `{cite}` roles to
-render properly.
-For example, if the references for your book are stored in `references.bib`,
-then the bibliography is inserted with:
+Está definidia dentro de un pequeño objetivo por realizar pero que se 
+encuentra bien definidia y que su resultado produce un impacto dentro 
+del proceso, un avance. 
+Por ejemplo, construcción de una funcionalidad específica del sistema.
 
 ```{bibliography}
 ```
 
-## Learn more
+## Conozca más
 
-This is just a simple starter to get you started.
-You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).
+Puede buscar recursos para comprender más acerca de esta idea, puede 
+buscar en 'youtube' o directamente en 'google' y encontrará un sin 
+número de recursos a su disposición
