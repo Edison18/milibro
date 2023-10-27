@@ -1,11 +1,10 @@
-# Welcome to your Jupyter Book
+# Bienvenidos a la introducción de los modelos de procesos de sofware
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Este es un tema perteneciente la ingeniería de software, que es una ciencai dedica no únicamente a la codificación 
+de un programa, sino que va desde el análisis, pleneación, modelo, implementación y su mantenimiento a futuro, es 
+decir, un ciclo de vida que permite que un sistema tenga bases sólidas para su creación y mantención
 
-Check out the content pages bundled with this sample book to see more.
+Puedes conocer más temas buscando en la web.
 
 ```{tableofcontents}
 ```
