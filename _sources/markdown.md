@@ -1,4 +1,4 @@
-#Qué es un proceso
+#Procesos
 
 Un `proceso` se puede definir como el conjunto de **actividades, acciones
 y tareas**, mismo que después de designar un orden, estructura y roles se
